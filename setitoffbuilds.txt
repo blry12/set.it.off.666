@@ -1,0 +1,450 @@
+name="[COLOR white][B]Set It Off 666 Builds[/B][/COLOR]"
+version="20.0"
+url="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="http://twistednutz.xyz/Wizard/Pics/Setitoff666.jpg"
+fanart="http://twistednutz.xyz/Wizard/Pics/fanart.jpg"
+adult="no"
+description="Builds By Set It 666"
+
+name="2099 SpiderBuild"
+version="1.5"
+url="http://twistednutz.xyz/Wizard/Builds/2099SpiderBuild.zip"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="http://twistednutz.xyz/Wizard/Pics/2099SpiderBuild.jpg"
+fanart="http://twistednutz.xyz/Wizard/Pics/fanart.jpg"
+preview="https://"
+adult="no"
+info="http://"
+description="2099 Spider Build"
+
+name="Black Cell"
+version="1.0"
+url="http://twistednutz.xyz/Wizard/Builds/BlackCell.zip"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="http://twistednutz.xyz/Wizard/Pics/BlackCell.jpg"
+fanart="http://twistednutz.xyz/Wizard/Pics/fanart.jpg"
+preview="https://"
+adult="no"
+info="http://"
+description="Black Cell Build" 
+
+name="CryLater"
+version="1.2"
+url="http://twistednutz.xyz/Wizard/Builds/CryLater.zip"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="http://twistednutz.xyz/Wizard/Pics/CryLater.jpg"
+fanart="http://twistednutz.xyz/Wizard/Pics/fanart.jpg"
+preview="https://"
+adult="no"
+info="http://"
+description="CryLater Build" 
+
+name="Cyberpunk 2077"
+version="1.3"
+url="http://twistednutz.xyz/Wizard/Builds/Cyberpunk2077.zip"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="http://twistednutz.xyz/Wizard/Pics/Cyberpunk2077.jpg"
+fanart="http://twistednutz.xyz/Wizard/Pics/fanart.jpg"
+preview="https://"
+adult="no"
+info="http://"
+description="Cyberpunk 2077 Build" 
+
+name="Daredevil"
+version="1.0"
+url="http://twistednutz.xyz/Wizard/Builds/Daredevil.zip"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="http://twistednutz.xyz/Wizard/Pics/Daredevil.png"
+fanart="http://twistednutz.xyz/Wizard/Pics/Daredevil.jpg"
+preview="https://"
+adult="no"
+info="http://"
+description="Daredevil Build" 
+
+name="Invisible"
+version="1.0"
+url="http://twistednutz.xyz/Wizard/Builds/Invisible.zip"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="http://twistednutz.xyz/Wizard/Pics/Invisible.jpg"
+fanart="http://twistednutz.xyz/Wizard/Pics/fanart.jpg"
+preview="https://"
+adult="no"
+info="http://"
+description="The Invisible Build" 
+
+name="John Wick 4"
+version="1.1"
+url="http://twistednutz.xyz/Wizard/Builds/JohnWick4.zip"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="http://twistednutz.xyz/Wizard/Pics/JohnWick4.jpg"
+fanart="http://twistednutz.xyz/Wizard/Pics/fanart.jpg"
+preview="https://"
+adult="no"
+info="http://"
+description="The John Wick 4 Build" 
+
+name="Kentucky Wildcats"
+version="1.0"
+url="http://twistednutz.xyz/Wizard/Builds/KentuckyWildcats.zip"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="http://twistednutz.xyz/Wizard/Pics/KentuckyWildcats.jpg"
+fanart="http://twistednutz.xyz/Wizard/Pics/fanart.jpg"
+preview="https://"
+adult="no"
+info="http://"
+description="Kentucky Wildcats Build" 
+
+name="LaughNow CryLater"
+version="1.6"
+url="http://twistednutz.xyz/Wizard/Builds/LaughNowCryLater.zip"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="http://twistednutz.xyz/Wizard/Pics/LaughNowCryLater.jpg"
+fanart="http://twistednutz.xyz/Wizard/Pics/fanart.jpg"
+preview="https://"
+adult="no"
+info="http://"
+description="LaughNow CryLater Build" 
+
+name="LaughNow - XX1"
+version="1.2"
+url="http://twistednutz.xyz/Wizard/Builds/LaughNowXX1.zip"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="http://twistednutz.xyz/Wizard/Pics/LaughNowXX1.jpg"
+fanart="http://twistednutz.xyz/Wizard/Pics/fanart.jpg"
+preview="https://"
+adult="yes"
+info="http://"
+description="LaughNow Adult Build" 
+
+name="LaughNow - XX2"
+version="1.1"
+url="http://twistednutz.xyz/Wizard/Builds/LaughNowXX2.zip"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="http://twistednutz.xyz/Wizard/Pics/LaughNowXX2.jpg"
+fanart="http://twistednutz.xyz/Wizard/Pics/fanart.jpg"
+preview="https://"
+adult="yes"
+info="http://"
+description="LaughNow Adult Build 2" 
+
+name="Prototype"
+version="1.2"
+url="http://twistednutz.xyz/Wizard/Builds/Prototype.zip"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="http://twistednutz.xyz/Wizard/Pics/Prototype.jpg"
+fanart="http://twistednutz.xyz/Wizard/Pics/fanart.jpg"
+preview="https://"
+adult="no"
+info="http://"
+description="Prototype Build" 
+
+name="Prototype Touch"
+version="1.1"
+url="http://twistednutz.xyz/Wizard/Builds/PrototypeTouch.zip"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="http://twistednutz.xyz/Wizard/Pics/PrototypeTouch.jpg"
+fanart="http://twistednutz.xyz/Wizard/Pics/fanart.jpg"
+preview="https://"
+adult="no"
+info="http://"
+description="Prototype Touch Build" 
+
+name="Resident Evil: Death Island"
+version="1.0"
+url="http://twistednutz.xyz/Wizard/Builds/ResidentEvilDeathIsland.zip"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="http://twistednutz.xyz/Wizard/Pics/ResidentEvilDeathIsland.jpg"
+fanart="http://twistednutz.xyz/Wizard/Pics/fanart.jpg"
+preview="https://"
+adult="no"
+info="http://"
+description="Resident Evil: Death Island Build" 
+
+name="Rick And Morty"
+version="1.0"
+url="http://twistednutz.xyz/Wizard/Builds/RickAndMorty.zip"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="http://twistednutz.xyz/Wizard/Pics/RickAndMorty.jpg"
+fanart="http://twistednutz.xyz/Wizard/Pics/fanart.jpg"
+preview="https://"
+adult="no"
+info="http://"
+description="Rick And Morty Build" 
+
+name="Slim Shady"
+version="1.0"
+url="http://twistednutz.xyz/Wizard/Builds/SlimShady.zip"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="http://twistednutz.xyz/Wizard/Pics/SlimShady.jpg"
+fanart="http://twistednutz.xyz/Wizard/Pics/fanart.jpg"
+preview="https://"
+adult="no"
+info="http://"
+description="Slim Shady Build" 
+
+name="The Cyborg Build"
+version="1.2"
+url="http://twistednutz.xyz/Wizard/Builds/CyborgBuild.zip"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="http://twistednutz.xyz/Wizard/Pics/CyborgBuild.jpg"
+fanart="http://twistednutz.xyz/Wizard/Pics/fanart.jpg"
+preview="https://"
+adult="no"
+info="http://"
+description="The Cyborg Build" 
+
+name="The Green Hornet Build"
+version="1.0"
+url="http://twistednutz.xyz/Wizard/Builds/GreenHornet.zip"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="http://twistednutz.xyz/Wizard/Pics/GreenHornet.jpg"
+fanart="http://twistednutz.xyz/Wizard/Pics/fanart.jpg"
+preview="https://"
+adult="no"
+info="http://"
+description="The Cyborg Build" 
+
+name="The Sanitize Build"
+version="1.0"
+url="http://twistednutz.xyz/Wizard/Builds/Sanitize.zip"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="http://twistednutz.xyz/Wizard/Pics/Sanitize.jpg"
+fanart="http://twistednutz.xyz/Wizard/Pics/fanart.jpg"
+preview="https://"
+adult="no"
+info="http://"
+description="The Cyborg Build" 
+
+name="The Titans"
+version="1.3"
+url="http://twistednutz.xyz/Wizard/Builds/TheTitans.zip"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="http://twistednutz.xyz/Wizard/Pics/TheTitans.jpg"
+fanart="http://twistednutz.xyz/Wizard/Pics/fanart.jpg"
+preview="https://"
+adult="no"
+info="http://"
+description="The Titans Build" 
+
+name="Visible"
+version="1.0"
+url="http://twistednutz.xyz/Wizard/Builds/Visible.zip"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="http://twistednutz.xyz/Wizard/Pics/Visible.jpg"7
+fanart="http://twistednutz.xyz/Wizard/Pics/fanart.jpg"
+preview="https://"
+adult="no"
+info="http://"
+description="The Visible Build" 
+
+name="Witcher 4"
+version="1.0"
+url="http://twistednutz.xyz/Wizard/Builds/Witcher4.zip"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="http://twistednutz.xyz/Wizard/Pics/Witcher4.jpg"
+fanart="http://twistednutz.xyz/Wizard/Pics/fanart.jpg"
+preview="https://"
+adult="no"
+info="http://"
+description="The Witcher 4 Build"
+
+name="[COLOR Blue][B]MisfitMods Builds[/B][/COLOR]"
+version="20.0"
+url="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="http://"
+fanart="http://"
+adult="no"
+description="Builds By MisfitMods"
+
+<name>MISFITMODS LITE K-20</name>
+<version>1.7</version>
+<url>http://163.172.69.199/mmwiz/K19builds/mmlite19.zip</url>
+<icon>http://misfitmods.com/mmwiz/builds/LiteSplash.png</icon>
+<fanart>http://misfitmods.com/mmwiz/builds/LiteSplash.jpg</fanart>
+<description>*UPDATED* 08-05-23</description>
+</build>
+<build>
+<name>ATOMIC MATRIX K-20</name>
+<version>2.6</version>
+<url>http://163.172.69.199/mmwiz/K19builds/atomicmatrix19.zip</url>
+<icon>http://misfitmods.com/Atomic/resources/icon.png</icon>
+<fanart>http://misfitmods.com/Atomic/resources/fanart.jpg</fanart>
+<description>UPDATED 4-22-23</description>
+</build>
+<build>
+<name>SMASH</name>
+<version>3.1</version>
+<url>http://163.172.69.199/mmwiz/K19builds/smash.zip</url>
+<icon>http://misfitmods.com/mmwiz/builds/smashsplash.png</icon>
+<fanart>http://misfitmods.com/mmwiz/builds/smashsplash.png</fanart>
+<description>Hardnox SMASH K20 updated on 8-3-23</description>
+</build>
+<build>
+<name>WEAPON X2</name>
+<version>4.3</version>
+<url>http://163.172.69.199/mmwiz/K19builds/weaponx2.zip</url>
+<icon>http://misfitmods.com/mmwiz/builds/X2pic.png</icon>
+<fanart>http://misfitmods.com/mmwiz/builds/X2pic.png</fanart>
+<description>Weapon X2 updated on 8-8-23</description>
+</build>
+<build>
+<name>ATOMIC K-20</name>
+<version>3.2</version>
+<url>http://163.172.69.199/mmwiz/K19builds/atomic19red.zip</url>
+<icon>http://misfitmods.com/Atomic/atomic19red/icon.png</icon>
+<fanart>http://misfitmods.com/Atomic/atomic19red/fanart.jpg</fanart>
+<description>*UPDATED* on 07/04/23</description>
+</build>
+<build>
+<name>HardNox Ultra K20</name>
+<version>3.2</version>
+<url>http://163.172.69.199/mmwiz/K19builds/hardnox20.zip</url>
+<icon>http://misfitmods.com/mmwiz/builds/ultrapic2.png</icon>
+<fanart>http://misfitmods.com/mmwiz/builds/ultrapic2.png</fanart>
+<description>Hardnox Ultra K20 updated on 8-3-23</description>
+</build>
+<build>
+<name>MILITIA</name>
+<version>1.1</version>
+<url>http://163.172.69.199/mmwiz/K19builds/militia.zip</url>
+<icon>http://misfitmods.com/mmwiz/builds/militiapic.png</icon>
+<fanart>http://misfitmods.com/mmwiz/builds/militiapic.png</fanart>
+<description>Militia Build by Mike C updated on 5-9-23</description>
+</build>
+<build>
+<name>SURF-N-TURF</name>
+<version>1.0</version>
+<url>http://163.172.69.199/mmwiz/K19builds/surfnturf.zip</url>
+<icon>http://misfitmods.com/mmwiz/builds/surfsplash.png</icon>
+<fanart>http://misfitmods.com/mmwiz/builds/surfsplash.png</fanart>
+<description>SURF-N-TURF by Mike C updated on 5-21-23</description>
+</build>
+<build>
+<name>SPIDERBUILD 2099</name>
+<version>1.2</version>
+<url>http://163.172.69.199/mmwiz/K19builds/spiderbuild.zip</url>
+<icon>http://misfitmods.com/mmwiz/builds/spidersplash.jpeg</icon>
+<fanart>http://misfitmods.com/mmwiz/builds/spidersplash.jpeg</fanart>
+<description>SPIDERBUILD 2099 by LaughNow updated on 8-16-23</description>
+</build>
+<build>
+<name>CYBERPUNK 2077</name>
+<version>1.0</version>
+<url>http://163.172.69.199/mmwiz/K19builds/CYBERPUNK.zip</url>
+<icon>http://misfitmods.com/mmwiz/builds/cybersplash.jpeg</icon>
+<fanart>http://misfitmods.com/mmwiz/builds/cybersplash.jpeg</fanart>
+<description>CYBERPUNK 2077 by LaughNow updated on 7-17-23</description>
+</build>
+<build>
+<name>CYBORG</name>
+<version>1.2</version>
+<url>http://163.172.69.199/mmwiz/K19builds/cyborg.zip</url>
+<icon>http://misfitmods.com/mmwiz/builds/cyborgpic.jpg</icon>
+<fanart>http://misfitmods.com/mmwiz/builds/cyborgpic.jpg</fanart>
+<description>Cyborg by LaughNow</description>
+</build>
+<build>
+<name>Crylater</name>
+<version>1.6</version>
+<url>http://163.172.69.199/mmwiz/K19builds/CryLater.zip</url>
+<icon>http://misfitmods.com/mmwiz/builds/crylaterpic.jpg</icon>
+<fanart>http://misfitmods.com/mmwiz/builds/crylaterpic.jpg</fanart>
+<description>Crylater build by LaughNow</description>
+</build>
+<build>
+<name>XX2</name>
+<version>1.2</version>
+<url>http://163.172.69.199/mmwiz/K19builds/XX2.zip</url>
+<icon>http://misfitmods.com/mmwiz/builds/xx2pic.jpg</icon>
+<fanart>http://misfitmods.com/mmwiz/builds/xx2pic.jpg</fanart>
+<description>XX2 build by LaughNow</description>
+</build>
+<build>
+<name>HardNox Ultra K-19</name>
+<version>2.9</version>
+<url>http://163.172.69.199/mmwiz/K19builds/hardnox19x.zip</url>
+<icon>http://misfitmods.com/mmwiz/builds/ultrapic2.png</icon>
+<fanart>http://misfitmods.com/mmwiz/builds/ultrapic2.png</fanart>
+<description>Hardnox Ultra</description>
+</build>
+<build>
+<name>TMNT K-19</name>
+<version>3.1</version>
+<url>http://163.172.69.199/mmwiz/K19builds/tmnt19.zip</url>
+<icon>http://misfitmods.com/mmwiz/builds/tmntsplash.png</icon>
+<fanart>http://misfitmods.com/mmwiz/builds/tmntpic.jpg</fanart>
+<description>Hardnox TMNT for K20</description>
+</build>
+</builds>
